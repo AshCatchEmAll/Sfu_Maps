@@ -5,6 +5,18 @@
 
 <div align="center"><img src ="SFU.png" style="vertical-align:middle"></div>
 
+# Content:
+- [Display Shots](#display-shots)
+- [Programming Language used ](#programming-language-used)
+- [Prerequisites](#prerequisites)
+- [Opening the project](#opening-the-project)
+- [Getting the API key](#gettingthe-api-key)
+- [Enabling Maps and Directions API](#enablingmaps-and-directions-api)
+- [installing](#installing)
+- [Run the app](#run-the-app)
+- [File Name](#file-name)
+- [Key Features](#key-features)
+- [Contact info](#contact-info)
 ## Display shots
 
 <img src ="Screenshot_20200624-002505~01.png" width="200" height="300">     <img src ="Screenshot_20200624-002512~01.png" width="200" height="300">     <img src ="Screenshot_20200624-002518~01.png" width="200" height="300">     <img src ="Screenshot_20200624-002532~01.png" width="200" height="300">     <img src ="Screenshot_20200624-002541~01.png" width="200" height="300">     <img src ="Screenshot_20200624-002558~01.png" width="200" height="300">     <img src ="Screenshot_20200624-002606~01.png" width="200" height="300">     <img src ="Screenshot_20200624-002622~01.png" width="200" height="300">
@@ -83,7 +95,7 @@ To get an API key:
 - Display important contacts and ability to copy number to clipboard on tap
 - Beautiful UI and ease of use
 
- # Contact info: 
+ # Contact info 
  ```
  avichare@sfu.ca
  ```
