@@ -70,6 +70,16 @@ To get an API key:
 7. Key.dart : Just a separate file for API
 8. Help.dart : Help to navigate through the app.
 9. DataBaseProvider.dart : Logic to persist data on the device 
+
+# Key Features
+- Allows users to choose between three different campus 
+- Put markers on the map and name them also delete them 
+- Display route between two user added markers on the map 
+- Display route between user current location and selected destination
+- Share Markers between devices 
+- Display important contacts and ability to copy number to clipboard on tap
+- Beautiful UI and ease of use
+
  
 
 
