@@ -55,7 +55,7 @@ To get an API key:
 4. Install flutter SDK and Set up your editor 
 5. Enter API in Keys.dart file 
 
-`static  const directionAPI = "Put your API here`
+`static  const directionAPI = "Put your API here"`
 
 ## Run the app
 1) Locate the main Android Studio toolbar:
