@@ -2,7 +2,7 @@
 # <div align="center">SFU Interactive Map</div>
 
 <div align="center">Interactive map for lovely campus of SFU</div>
-![Icon Image] (SFU.png)
+![SFU](https://user-images.githubusercontent.com/67299491/85443447-24535280-b546-11ea-9f4d-1c86451e9e0d.png)
 
 # Programming language used
 
