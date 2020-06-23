@@ -2,7 +2,7 @@
 # <div align="center">SFU Interactive Map</div>
 
 <div align="center">Interactive map for lovely campus of SFU</div>
-![Icon Image] (https://github.com/AshCatchEmAll/Sfu_Interactive_Map/blob/master/SFU.png)
+![Icon Image] (https://github.com/AshCatchEmAll/Sfu_Interactive_Map/SFU.png)
 
 # Programming language used
 
