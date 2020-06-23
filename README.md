@@ -4,7 +4,10 @@
 <div align="center">Interactive map for lovely campus of SFU</div>
 
 <div align="center"><img src ="SFU.png" style="vertical-align:middle"></div>
-    
+
+## Display shots
+
+<img src ="Screenshot_20200624-002505~01.png" width="200" height="300">     <img src ="Screenshot_20200624-002512~01.png" width="200" height="300">     <img src ="Screenshot_20200624-002518~01.png" width="200" height="300">     <img src ="Screenshot_20200624-002532~01.png" width="200" height="300">     <img src ="Screenshot_20200624-002541~01.png" width="200" height="300">     <img src ="Screenshot_20200624-002558~01.png" width="200" height="300">     <img src ="Screenshot_20200624-002606~01.png" width="200" height="300">     <img src ="Screenshot_20200624-002622~01.png" width="200" height="300">
 
 # Programming language used
 
