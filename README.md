@@ -5,7 +5,7 @@
 
 <div align="center"><img src ="SFU.png" style="vertical-align:middle"></div>
 
-# Content:
+# Table of Content:
 - [Display Shots](#display-shots)
 - [Programming Language used ](#programming-language-used)
 - [Prerequisites](#prerequisites)
