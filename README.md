@@ -12,7 +12,7 @@
 - [Opening the project](#opening-the-project)
 - [Getting the API key](#getting-the-api-key)
 - [Enabling Maps and Directions API](#enabling-maps-and-directions-api)
-- [installing](#installing)
+- [Installing](#installing)
 - [Run the app](#run-the-app)
 - [File Name](#file-names)
 - [Key Features](#key-features)
@@ -99,5 +99,8 @@ To get an API key:
  ```
  avichare@sfu.ca
  ```
+ 
+ # Members List:
+ - Me, Myself and I :balloon:
 
 
