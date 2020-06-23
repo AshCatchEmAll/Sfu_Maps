@@ -83,6 +83,9 @@ To get an API key:
 - Display important contacts and ability to copy number to clipboard on tap
 - Beautiful UI and ease of use
 
- 
+ # Contact info: 
+ ```
+ avichare@sfu.ca
+ ```
 
 
