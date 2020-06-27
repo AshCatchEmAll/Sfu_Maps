@@ -108,7 +108,7 @@ To get an API key:
  - google_map_polyline:
  - location: ^3.0.2
  - sqflite: ^1.3.1
- - path:^1.7.0
+ - path:
  - flutter_map: ^0.9.0
  - flutter_polyline_points: ^0.2.2
  - android_intent: ^0.3.7+2
