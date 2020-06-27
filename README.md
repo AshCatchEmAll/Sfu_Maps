@@ -95,6 +95,13 @@ To get an API key:
 - Display important contacts and ability to copy number to clipboard on tap
 - Beautiful UI and ease of use
 
+# Future Scope 
+- Turn by turn navigation 
+- Indoor navigation 
+- Create authentication system so that only SFU students can access the app 
+- Ability to see reviews about different places on campus 
+- Storr markers on firebase cloud so that saved markers are available across devices for authenticated users
+
  # Contact info 
  ```
  avichare@sfu.ca
