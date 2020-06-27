@@ -107,6 +107,7 @@ To get an API key:
 - Create authentication system so that only SFU students can access the app 
 - Ability to see reviews about different places on campus 
 - Store markers on firebase cloud so that saved markers are available across devices for authenticated users
+- Make app available for ios and web
 
 # Plugins used 
  - google_maps_flutter: ^0.5.28+1
