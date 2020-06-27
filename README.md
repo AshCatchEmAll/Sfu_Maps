@@ -68,6 +68,10 @@ To get an API key:
 5. Enter API in Keys.dart file 
 
 `static  const directionAPI = "Put your API here"`
+6. Enter Api in android>App>source>main
+
+`android:name="com.google.android.geo.API_KEY"
+        android:value="Put your key here"/> `
 
 ## Run the app
 1) Locate the main Android Studio toolbar:
