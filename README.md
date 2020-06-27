@@ -71,9 +71,9 @@ To get an API key:
 
 6. Enter Api in android>App>source>main
 
-`android:name="com.google.android.geo.API_KEY"
+`android:name="com.google.android.geo.API_KEY"`
 
- android:value="Put your key here"/> `
+ `android:value="Put your key here"/> `
 
 ## Run the app
 1) Locate the main Android Studio toolbar:
