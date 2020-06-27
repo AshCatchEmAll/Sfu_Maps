@@ -100,7 +100,7 @@ To get an API key:
 - Indoor navigation 
 - Create authentication system so that only SFU students can access the app 
 - Ability to see reviews about different places on campus 
-- Storr markers on firebase cloud so that saved markers are available across devices for authenticated users
+- Store markers on firebase cloud so that saved markers are available across devices for authenticated users
 
  # Contact info 
  ```
