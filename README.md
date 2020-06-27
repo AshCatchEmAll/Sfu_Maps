@@ -114,7 +114,7 @@ To get an API key:
  - android_intent: ^0.3.7+2
  - qr_flutter: ^3.1.0
  - flutter_barcode_scanner: ^1.0.1
- Much thanks to these plugins which made this project successful. 
+ - Much thanks to these plugins which made this project successful :clap:
  
  # Contact info 
  ```
