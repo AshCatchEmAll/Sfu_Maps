@@ -74,12 +74,19 @@ To get an API key:
 `android:name="com.google.android.geo.API_KEY"`
 
  `android:value="Put your key here"/> `
+ 
+
 
 ## Run the app
 1) Locate the main Android Studio toolbar:
 ![enter image description here](https://flutter.dev/assets/tools/android-studio/main-toolbar-857fe8c36d38020e27b502ec643ea8b1716edbe150cc6e39e3560f8fb7bda5b2.png)
 2.  In the **target selector**, select an Android device for running the app. If none are listed as available, select **Tools> Android > AVD Manager** and create one there. For details, see [Managing AVDs](https://developer.android.com/studio/run/managing-avds).
-3.   Click the run icon in the toolbar, or invoke the menu item **Run > Run**.
+3. Please get and upgrade packages by typing these commands 
+    - From the terminal: Run flutter pub get . OR.
+    - From Android Studio/IntelliJ: Click Packages get in the action ribbon at the top of pubspec. yaml .
+    - From VS Code: Click Get Packages located in right side of the action ribbon at the top of pubspec. yaml .
+    
+4.   Click the run icon in the toolbar, or invoke the menu item **Run > Run**.
 
 ## File names 
 1. main.dart : The main file containing the first page of app 
