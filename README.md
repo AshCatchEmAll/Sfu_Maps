@@ -1,7 +1,9 @@
 
-# <div align="center">SFU Interactive Map</div>
+# <div align="center">LEAF</div>
 
-<div align="center">Interactive map for lovely campus of SFU</div>
+<div align="center">Library's easy access files</div>
+
+<div align="center">Application to help students keep track of their book reading</div>
 
 <div align="center"><img src ="SFU.png" style="vertical-align:middle"></div>
 
@@ -42,19 +44,35 @@ This project uses Flutter - a free and open-source mobile UI framework which use
 ## Getting the API key
 To get an API key:
 
-1.  Visit the [Google Cloud Platform Console](https://cloud.google.com/console/google/maps-apis/overview).
-2.  Click the project drop-down and select or create the project for which you want to add an API key.
-3.  Click the menu button ![](https://developers.google.com/maps/documentation/images/nav-menu.png) and select **APIs & Services > Credentials**.
-4.  On the **Credentials** page, click **Create credentials > API key**.  
-    The **API key created** dialog displays your newly created API key.
-5.  Click **Close.**  
-    The new API key is listed on the **Credentials** page under **API keys**.  
-   
-   ## Enabling Maps and Directions API 
-   1) Visit your Google Cloud Platform Console account.
-   2) Open the menu button and select **APIs & Services>Dashboard**
-   3) Click on **Enable API's and services** 
-   4) Enable **Maps SDK for Android** and **Directions API**
+1. Create a Firebase project
+   -In the Firebase console, click Add project, then select or enter a Project name.
+
+    -If you have an existing Google Cloud Platform (GCP) project, you can select the project from the dropdown menu to add Firebase resources to that project.
+
+    -(Optional) If you are creating a new project, you can edit the Project ID.
+
+    -Firebase automatically assigns a unique ID to your Firebase project. Visit Understand Firebase Projects to learn about how Firebase uses the project ID.
+    After Firebase provisions resources for your Firebase project, you cannot change your project ID.
+    To use a specific identifier, you must edit your project ID during this setup step.
+
+    -Click Continue.
+
+    -(Optional) Set up Google Analytics for your project, which enables you to have an optimal experience using any of the following Firebase products:
+        Firebase Crashlytics
+        Firebase Predictions
+    	
+        Firebase Cloud Messaging
+        Firebase In-App Messaging
+    	
+        Firebase Remote Config
+        Firebase A/B Testing
+
+    -When prompted, select to use an existing Google Analytics account or to create a new account.
+    If you choose to create a new account, select your Analytics reporting location, then accept the data sharing settings and Google Analytics terms for your project.
+    You can always set up Google Analytics later in the Integrations tab of your settings Project settings.
+
+    -Click Create project (or Add Firebase, if you're using an existing GCP project).
+
 
 
 ## Installing
