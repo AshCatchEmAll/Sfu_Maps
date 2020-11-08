@@ -12,7 +12,6 @@
 - [Programming Language used ](#programming-language-used)
 - [Prerequisites](#prerequisites)
 - [Opening the project](#opening-the-project)
-- [Getting the API key](#getting-the-api-key)
 - [Enabling Maps and Directions API](#enabling-maps-and-directions-api)
 - [Installing](#installing)
 - [Run the app](#run-the-app)
@@ -40,38 +39,6 @@ This project uses Flutter - a free and open-source mobile UI framework which use
 4.  Click **Yes** when prompted to install the Dart plugin.
 5.  Click **Restart** when prompted.
 6. After that : click “Open existing Android Studio Project”
-
-## Getting the API key
-To get an API key:
-
-1. Create a Firebase project
-   -In the Firebase console, click Add project, then select or enter a Project name.
-
-    -If you have an existing Google Cloud Platform (GCP) project, you can select the project from the dropdown menu to add Firebase resources to that project.
-
-    -(Optional) If you are creating a new project, you can edit the Project ID.
-
-    -Firebase automatically assigns a unique ID to your Firebase project. Visit Understand Firebase Projects to learn about how Firebase uses the project ID.
-    After Firebase provisions resources for your Firebase project, you cannot change your project ID.
-    To use a specific identifier, you must edit your project ID during this setup step.
-
-    -Click Continue.
-
-    -(Optional) Set up Google Analytics for your project, which enables you to have an optimal experience using any of the following Firebase products:
-        Firebase Crashlytics
-        Firebase Predictions
-    	
-        Firebase Cloud Messaging
-        Firebase In-App Messaging
-    	
-        Firebase Remote Config
-        Firebase A/B Testing
-
-    -When prompted, select to use an existing Google Analytics account or to create a new account.
-    If you choose to create a new account, select your Analytics reporting location, then accept the data sharing settings and Google Analytics terms for your project.
-    You can always set up Google Analytics later in the Integrations tab of your settings Project settings.
-
-    -Click Create project (or Add Firebase, if you're using an existing GCP project).
 
 
 
