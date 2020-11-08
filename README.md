@@ -1,9 +1,8 @@
 
-# <div align="center">LEAF</div>
+# <div align="center">SFU maps</div>
 
-<div align="center">Library's easy access files</div>
 
-<div align="center">Application to help students keep track of their book reading</div>
+<div align="center">Application to guide students through lovely campus of sfu</div>
 
 <div align="center"><img src ="SFU.png" style="vertical-align:middle"></div>
 
